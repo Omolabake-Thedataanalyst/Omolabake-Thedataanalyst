@@ -28,13 +28,16 @@ Here you’ll find projects on:
 - Python for advanced data analysis  
 - Statistical modeling and hypothesis testing  
 - Big data analytics and visualization
+
+
+---
+
+### 🌟 My Focus
+Simplifying Data → Impactful Insights  
+Business • Sustainability • Social Impact
+
 ---
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ajibola-aishat-omolabake/)  
 - Email: ajibolaaishat5@gmail.com  
-
----
-
-Simplifying Data → Impactful Insights
-Business • Sustainability • Social Impact
