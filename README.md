@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Omolabake 👋
 
-<!--
-**Omolabake-Thedataanalyst/Omolabake-Thedataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a growing Data Analyst who turns complex, messy data into clear insights and business decisions using Excel, SQL, Python, and Power BI.
 
-Here are some ideas to get you started:
+### Tools
+Excel | SQL | Python | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here
+- Excel data analysis projects
+- SQL data analysis projects
+- Python data exploration
+- Data cleaning and visualization
+- Business dashboards using Excel and Power BI
+
+### Current Focus
+Building real-world analytics projects and improving my data storytelling skills.
