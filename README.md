@@ -36,4 +36,5 @@ Here you’ll find projects on:
 
 ---
 
-“Turning complex data into clear insights and actionable decisions.”
+Simplifying Data → Impactful Insights
+Business • Sustainability • Social Impact
