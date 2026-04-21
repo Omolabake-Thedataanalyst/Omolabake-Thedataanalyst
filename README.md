@@ -18,7 +18,7 @@ I'm a certified Data Analyst passionate about exploring data, uncovering insight
 
 </div>
 
-- **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication, 🤝 Team work, 👂 Active listening
+- **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication, 🤝 Team work, 👂 Active listening, 🔀 Adaptability
 
 ---
 
@@ -43,7 +43,6 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 
 ## 🎯 My Focus
 **Simplifying Data → Impactful Insights**  
-
 *Business • Sustainability • Social Impact*
 
 ---
