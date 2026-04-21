@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="150" height="150" style="border-radius:50%; box-shadow: 0 0 0 4px #333;">
+<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="165" height="165" style="border-radius:50%; box-shadow: 0 0 0 4px #333;">
 </div>
 
 # Hi, I'm Omolabake 👋
