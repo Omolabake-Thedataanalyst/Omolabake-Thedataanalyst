@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="150" height="150" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="150" height="150" style="border-radius:50%; border: 4px solid #333;">
 </div>
 
 # Hi, I'm Omolabake 👋
@@ -16,7 +16,7 @@ I'm a certified Data Analyst passionate about exploring data, uncovering insight
 
 </div>
 
-- **Core Skills:** 🧹 Data Cleaning, 🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication
+- **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication, 🤝 Team work, 👂 Active listening
 
 ---
 
