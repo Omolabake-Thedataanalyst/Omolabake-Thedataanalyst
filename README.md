@@ -1,6 +1,6 @@
 <div align="center">
-<div style="border-radius:50%; overflow:hidden; width:165px; height:165px; box-shadow: 0 0 0 4px #333; display:inline-block;">
-<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="165" height="165">
+<div style="border-radius:50%; overflow:hidden; width:55px; height:55px; box-shadow: 0 0 0 4px #333; display:inline-block;">
+<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="50" height="50">
 </div>
 </div>
 
