@@ -43,6 +43,7 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 
 ## 🎯 My Focus
 **Simplifying Data → Impactful Insights**  
+
 *Business • Sustainability • Social Impact*
 
 ---
