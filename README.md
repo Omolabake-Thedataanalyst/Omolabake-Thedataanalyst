@@ -1,6 +1,6 @@
 <div align="center">
-<div style="border-radius:50%; overflow:hidden; width:55px; height:55px; box-shadow: 0 0 0 4px #333; display:inline-block;">
-<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="50" height="50">
+<div style="border-radius:50%; overflow:hidden; width:155px; height:155px; box-shadow: 0 0 0 4px #333; display:inline-block;">
+<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="150" height="150">
 </div>
 </div>
 
@@ -48,5 +48,5 @@ Here you'll find hands-on projects using both real-world and practice datasets:
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ajibola-aishat-omolabake/)
-- Email: ajibolaaishat5@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajibola-aishat-omolabake/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajibolaaishat5@gmail.com)
