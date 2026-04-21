@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="165" height="165" style="border-radius:50%; box-shadow: 0 0 0 4px #333;">
+<div style="border-radius:50%; overflow:hidden; width:165px; height:165px; box-shadow: 0 0 0 4px #333; display:inline-block;">
+<img src="https://avatars.githubusercontent.com/u/255368655?v=4" alt="Omolabake's Profile Picture" width="165" height="165">
+</div>
 </div>
 
 # Hi, I'm Omolabake 👋
